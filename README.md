@@ -23,7 +23,7 @@
     ```markdown
         
         ```bash
-        git clone https://github.com/Alladinchik7/CLIWeather.git
+        `git clone https://github.com/Alladinchik7/CLIWeather.git`
         ```
 
 2. Перейдите в директорию проекта
@@ -31,7 +31,7 @@
     ```markdown
 
         ```bash
-        cd CLI-weather-cheker
+        `cd CLI-weather-cheker`
         ```
 
 3. Настройте конфиги в .env орентируясь по .env.example(Используйте ключ от `https://www.visualcrossing.com/weather-api/`)
@@ -41,7 +41,7 @@
     ```markdown
 
         ```bash
-        .\weather.exe
+        `.\weather.exe`
         ```
 
 ## 🎮 Примеры использования
