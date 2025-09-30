@@ -53,8 +53,6 @@
         ```bash
         .\weather.exe Moscow,ru
         ```
-    
-    ```markdown
 
         ```bash
         Weather for  Temperature  Humidity
